@@ -1,0 +1,39 @@
+.box1{
+background-color:red;
+width: 20%;
+margin-right: 5%;
+margin-left: 5%;
+height: 700px;
+margin-top:5% ;
+}
+
+.box2{
+background-color: yellow;
+width: 20%;
+margin-right: 5%;
+height: 700px;
+margin-top:5% ;
+}
+
+.box3{
+background-color: green;
+width: 20%;
+margin-right: 5%;
+height: 700px;
+margin-top:5% ;
+}
+
+.box4{
+background-color: rgb(8, 130, 223);
+width: 20%;
+margin-right: 5%;
+height: 700px;
+margin-top:5% ;
+}
+
+
+body{
+ display: flex;
+ justify-content: center;
+
+}
